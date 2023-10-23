@@ -1,0 +1,22 @@
+[
+    {"q":"Bitte übersetze: 'Dober dan!'",
+     "a":"Guten Tag!"},
+    {"q":"Bitte übersetze: 'jaz'",
+     "a":"Ich"},
+    {"q":"Bitte übersetze: 'ona'",
+     "a":"sie"},
+    {"q":"Bitte übersetze: 'on'",
+     "a":"er"},
+    {"q":"Bitte übersetze: 'ti'",
+     "a":"du"},
+    {"q":"Bitte übersetze: 'govoriti'",
+     "a":"sprechen"},
+    {"q":"Bitte übersetze: 'imenovati (se)'",
+     "a":"heißen"},
+    {"q":"Bitte übersetze: 'Nasvidenje!'",
+     "a":"Auf Wiedersehen!"},
+    {"q":"Bitte übersetze: 'kako'",
+     "a":"Wie"},
+    {"q":"Bitte übersetze: 'kdo'",
+     "a":"Wer"}    
+]

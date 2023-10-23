@@ -1,0 +1,10 @@
+[
+    {"q":"Bitte ergänze: 'Ich ... aus Slowenien. (kommen)'",
+     "a":"Ich KOMME aus Slowenien."},
+    {"q":"Bitte ergänze: 'Wie ... du? (heißen)'",
+     "a":"Wie HEIßT du?"},
+    {"q":"Bitte ergänze: 'Ich ... Slowenisch, Englisch und Deutsch. (sprechen)'",
+     "a":"Ich SPRECHE Slowenisch, Englisch und Deutsch."},
+    {"q":"Bitte ergänze: 'Du ... Englisch. (sprechen)'",
+     "a":"Du SPRICHST Englisch."}
+]

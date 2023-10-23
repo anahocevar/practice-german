@@ -1,0 +1,12 @@
+[
+    {"q":"Bitte übersetze: 'Jaz sem Vanja.'",
+     "a":"Ich bin Vanja."},
+    {"q":"Bitte übersetze: 'Jaz prihajam iz Slovenije.'",
+     "a":"Ich komme aus Slowenien."},
+    {"q":"Bitte übersetze: 'Moje ime je Olga.'",
+     "a":"Mein Name ist Olga."},
+    {"q":"Bitte übersetze: 'Kdo je to?'",
+     "a":"Wer ist das?"},
+    {"q":"Bitte übersetze: 'Od kod prihajate? (vikanje)'",
+     "a":"Woher kommen Sie?"}
+]
