@@ -5,7 +5,7 @@ import random
 def app():
     
     def wipe_all():
-        st.session_state.pick = random.randrange(4)
+        st.session_state.pick = random.randrange(12)
         st.session_state["answer"] = ""
         st.session_state.proceed = False
         st.session_state.pick_from = choices[choice]
